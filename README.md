@@ -5,8 +5,8 @@ This is a solution to the https://www.frontendmentor.io/challenges/social-proof-
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-master-mULBeg7kML/solutions)
+- Live Site URL: (https://nikakl.github.io/social-proof-section/)
 
 
 ### Built with
